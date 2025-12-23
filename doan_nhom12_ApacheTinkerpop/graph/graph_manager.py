@@ -1,4 +1,4 @@
-# graph/graph_manager.py
+
 import time
 from gremlin_python.driver.driver_remote_connection import DriverRemoteConnection
 from gremlin_python.process.graph_traversal import __

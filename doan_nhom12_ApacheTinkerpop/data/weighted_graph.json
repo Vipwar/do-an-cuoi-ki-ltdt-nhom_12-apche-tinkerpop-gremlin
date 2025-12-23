@@ -1,0 +1,14 @@
+{
+  "name": "Weighted Graph Demo",
+  "directed": false,
+  "weighted": true,
+  "vertices": ["A", "B", "C", "D", "E"],
+  "edges": [
+    ["A", "B", 2],
+    ["A", "C", 4],
+    ["B", "C", 1],
+    ["B", "D", 7],
+    ["C", "E", 3],
+    ["D", "E", 1]
+  ]
+}
